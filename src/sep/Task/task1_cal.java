@@ -1,6 +1,6 @@
-package sep.ex_13092024;
+package sep.Task;
 
-public class task2_cal {
+public class task1_cal {
     public static void main(String[] args) {
         double a = 34;
         double b = 10;

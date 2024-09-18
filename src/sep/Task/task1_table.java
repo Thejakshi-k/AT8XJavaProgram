@@ -1,6 +1,4 @@
-package sep.ex_13092024;
-
-import java.util.Scanner;
+package sep.Task;
 
 public class task1_table {
     public static void main(String[] args) {
