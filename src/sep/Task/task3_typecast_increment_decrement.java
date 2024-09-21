@@ -25,7 +25,7 @@ public class task3_typecast_increment_decrement {
         //System.out.println(  --a + a++ + a—); System.out.println(a);
         //Ans: 28,9
 
-        //3.int a = 10;
+        //4.int a = 10;
         //System.out.println(  a- - + a --  + a --); System.out.println(a);
         //Ans: 27,7
 
