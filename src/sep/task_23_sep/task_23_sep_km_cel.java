@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class task_23_sep_km_cel {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the option(1 for km to m and 2 F to C)");
+        System.out.println("Enter the option(1 for km to m and 2 C to F)");
         int num=sc.nextInt();
         switch(num){
             case 1:
