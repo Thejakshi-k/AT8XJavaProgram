@@ -4,9 +4,8 @@ import java.util.Scanner;
 
 public class task_3 {
     public static void main(String[] args) {
-        // Scanner sc=new Scanner(System.in);
-        // System.out.println("Enter the table you want to print");
-        // int num=sc.nextInt();
+        // Sum of 1 to 100
+
         int i = 0;
         int j=0;
         while (i <= 100) {
