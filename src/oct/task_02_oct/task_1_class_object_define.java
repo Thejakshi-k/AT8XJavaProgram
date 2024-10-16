@@ -1,4 +1,4 @@
-package oct.task_02_sep;
+package oct.task_02_oct;
 
 public class task_1_class_object_define {
     public static void main(String[] args) {
